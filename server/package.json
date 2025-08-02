@@ -1,0 +1,16 @@
+{
+  "name": "fundraising-server",
+  "version": "1.0.0",
+  "description": "Backend for Fundraising Intern Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Vishwadeep Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
